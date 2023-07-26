@@ -13,8 +13,7 @@ Graduate Certificate in Data Sceince(2023)
 
 
 2. CREATING DASHBOARD WITH MS EXCEL
-  
-![Creating Dashboard in MS Excel from Spreadsheets]("C:\Users\Maiwa\Downloads\EXCEL  interactive dashboard.xlsx")
+
 
 
 
