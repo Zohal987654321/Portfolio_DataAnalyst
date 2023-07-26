@@ -1,5 +1,7 @@
 # ZOHAL ZAHIR
 
+![Professional Data Analyst](C:\Users\Maiwa\OneDrive\Pictures\dataAnalyst_image.png)
+
 ## EDUCATION
 Graduate Certificate in Data Sceince(2023)
 
